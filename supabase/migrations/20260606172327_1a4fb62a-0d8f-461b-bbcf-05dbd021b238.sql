@@ -1,0 +1,1 @@
+ALTER TABLE public.registrations ADD CONSTRAINT registrations_stripe_session_id_key UNIQUE (stripe_session_id);

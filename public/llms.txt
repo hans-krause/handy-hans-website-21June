@@ -1,0 +1,20 @@
+# Handy Hans English
+
+> Online British English coaching with Hans — 1:1 lessons, 10-session packs and live weekly group classes for learners worldwide.
+
+Handy Hans English is the online English coaching site of Hans (a.k.a. Handy Hans), a native British English teacher with 10+ years of international experience. The site offers private lessons, lesson packs and a live weekly group class for intermediate learners, plus a free downloadable PDF of common English errors.
+
+## Pages
+
+- [Home](/): Overview of Hans's online English coaching, featured testimonials and a sample teaching video.
+- [About](/about): Hans's background, teaching style and what students can expect.
+- [English Classes](/courses): 1:1 lessons, 10-session packs and group class pricing.
+- [Group Class Overview](/courses/group-class/overview): Weekly live group class — schedule, what's included and subscription pricing.
+- [Group Class Details](/courses/group-class/details): Detailed breakdown of the live group class format and material.
+- [Free PDF](/free-pdf): Free download — Hans's Top 20 Evil English Errors study sheet.
+- [Contact](/contact): Email and contact form for course, scheduling and collaboration enquiries.
+
+## Optional
+
+- [Privacy Policy](/privacy): How the site handles personal information.
+- [Terms](/terms): Terms and conditions of service.

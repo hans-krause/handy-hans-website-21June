@@ -1,0 +1,1 @@
+ALTER TABLE public.pdf_signups ADD COLUMN name TEXT;
